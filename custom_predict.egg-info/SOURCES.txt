@@ -1,0 +1,7 @@
+predictor.py
+setup.py
+custom_predict.egg-info/PKG-INFO
+custom_predict.egg-info/SOURCES.txt
+custom_predict.egg-info/dependency_links.txt
+custom_predict.egg-info/requires.txt
+custom_predict.egg-info/top_level.txt
